@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am a CSE undergrad at Amity University Lucknow, currently pursuing an Executive Master's in AI & Data Science Engineering from IIT Patna. As an aspiring Data Scientist, I am constantly upskilling myself in AI/ML and Data Analytics.<br><br>I have hands-on experience with technologies such as MySQL, SQL, Power BI, Excel, Git/GitHub, Agentic AI tools, and Python. I can perform core Data Analytics and ETL procedures including Data Cleaning, Transformation, Manipulation, Compilation, Modelling, and Visualization.<br><br>I am adept at analyzing and solving critical business problems by processing raw data into meaningful insights and predictions, enabling structured, data-driven decision-making through a streamlined workflow. I am also well-versed in Statistics and am continuously advancing my knowledge in Calculus and Linear Algebra — both essential for Predictive Analytics and for understanding LLM mechanisms and workflows.<br><br>In the past, my curiosity in Finance led me to build a successful Proprietary Business. I also gained hands-on experience in Financial and Capital Markets. I utilized quantitative, data-driven tools to forecast and predict movements across different asset classes. These experiences made me realize the power of data-driven insights, which ultimately drew me toward the field of Data Science.<br><br>I have also self-studied on Entrepreneurial concepts as well as Lean Startup methodologies, which helped me grasp key Business, Startup, and Venture concepts essential for entrepreneurial endeavors. This broadened my understanding of the structural frameworks of enterprises, corporations, and startups — spanning business models, company stages, product-market fit, value creation, problem-solving, and key metrics and KPIs for unit economics. These fundamentals position me to create meaningful value for any organization I work with.
 
-<!--
-**yuktamyadav/yuktamyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuktamyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuonline108@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yuktamyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yuktamyadav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuktamyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yuktamyadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
